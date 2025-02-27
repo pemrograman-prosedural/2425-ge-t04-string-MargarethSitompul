@@ -1,5 +1,5 @@
-// NIM - Name
-// NIM - Name
+// 12S24035-JOSUA SIANTURI
+// 12S24007-MARGARETH SITOMPUL
 
 #include <stdio.h>
 #include <string.h>
